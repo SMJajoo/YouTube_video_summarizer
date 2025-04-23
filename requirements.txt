@@ -10,3 +10,5 @@ openpyxl
 fpdf
 youtube_transcript_api
 pathlib
+pytube
+opencv-python
