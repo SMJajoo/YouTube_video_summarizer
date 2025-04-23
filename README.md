@@ -27,6 +27,6 @@ This Streamlit app allows you to:
 ```bash
 git clone https://github.com/SMJajoo/youtube-academic-summarizer.git
 cd youtube-academic-summarizer
-
+```
 
 ![image](https://github.com/user-attachments/assets/511fa342-ec58-4a53-99d4-1401607b5d20)
